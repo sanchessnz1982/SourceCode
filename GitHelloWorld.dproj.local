@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020 04 02 13:09:54.138,=E:\DelphiProjects\Unit11.pas</Transaction>
+    <Transaction>2020 04 02 13:10:19.525,E:\DelphiProjects\GitHelloWorld\uHelloWorld.dfm=E:\DelphiProjects\Unit11.dfm</Transaction>
+    <Transaction>2020 04 02 13:10:19.525,E:\DelphiProjects\GitHelloWorld\uHelloWorld.pas=E:\DelphiProjects\Unit11.pas</Transaction>
+    <Transaction>2020 04 02 13:10:36.197,E:\DelphiProjects\GitHelloWorld\GitHelloWorld.dproj=E:\DelphiProjects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
